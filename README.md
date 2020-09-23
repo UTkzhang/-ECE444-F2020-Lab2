@@ -3,6 +3,7 @@ This repository is a clone of https://github.com/miguelgrinberg/flasky.
 
 # activity 1
 <img src="https://github.com/UTkzhang/ECE444-F2020-Lab2/blob/master/Snip20200921_22.png">
+*Note the virtual env doesn't show up as "venv" but "Py ece444" due to the configuration of my commandline, but I included some extra info at the beginning to show that I was indeed activating the virtual env. 
 
 # activity 2
 <img src="https://github.com/UTkzhang/ECE444-F2020-Lab2/blob/master/Snip20200921_24.png">
